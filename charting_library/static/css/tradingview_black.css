@@ -1,0 +1,22 @@
+.header-group-fullscreen{float: right;}
+.header-group-intervals > .intervals-container > .quick span{padding-left: 15px; padding-right: 15px;}
+.chart-page .my-group{float: left;}
+.chart-page .my-group.active .mydate,
+.feature-no-touch .chart-controls-bar-buttons a:not(.disabled):hover{background-color: #e1ecf2; color: #8b8c8e;} .button,
+.chart-page .my-group.active { background-color: #e1ecf2; }
+.feature-no-touch .button:active,
+.favored-list-container span{background-color: #fff; color: #4e5b85; border-color: #2c303b;}
+.chart-controls-bar-buttons a:before{border-color: #2c303b;}
+.button.indicators svg,
+.button.fullscreen svg,
+.button.properties svg{fill: #4e5b85;}
+.feature-no-touch .button:hover,
+.favored-list-container span.selected{background: #e1ecf2; color: #58c3e5;}
+.feature-no-touch .favored-list-container span:hover{background: #e1ecf2; color: #58c3e5;}
+.favored-list-container span.disabled{background: #fff; color: #4e5b85!important;}
+
+.chart-page .chart-container{border-color: #2c303b;}
+
+.charting-mask{display: block; position: absolute; top: 38px; width: 100%; left: 0; bottom: 0;}
+
+.chart-page .layout__area--left [class^="drawingToolbar-"]{background: #fff!important;}
